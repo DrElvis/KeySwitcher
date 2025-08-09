@@ -54,7 +54,7 @@ python layout_switcher.py
 **Было:**
 
 ```
-Ghbdtn ,fvs!
+Ghbdtn vbh!
 ```
 
 **Станет:**
